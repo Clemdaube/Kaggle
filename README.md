@@ -1,4 +1,14 @@
 This folder contains the notebooks and the data files from the Kaggle competition I participated in.
+- **Loan Approval Prediction** (Playground Series - Season 4, Episode 10) :
+  
+  ![image](https://github.com/user-attachments/assets/7b539710-429a-46d9-9e8f-8a637765efb0)
+
+  https://www.kaggle.com/competitions/playground-series-s4e10/
+
+  Description : The goal for this competition is to predict whether an applicant is approved for a loan.
+
+  Result : AUC = 0.87497 (late submission)
+
 
 - **Regression of Used Car Prices** (Playground Series - Season 4, Episode 9) :
 
